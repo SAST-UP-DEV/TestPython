@@ -8,6 +8,6 @@
       "perFile": 60
     },
     "maxFileSize": 1024,
-    "pythonEngineGeneration": 2,
+    "pythonEngineGeneration": 2
   }
 }
